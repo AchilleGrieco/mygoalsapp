@@ -1,5 +1,5 @@
 
-# Project Title
+# MyGoals App
 
 Productivity app that allows users to create goal templates and select them to create goals that they can assign to themselves.
 
@@ -9,11 +9,9 @@ Productivity app that allows users to create goal templates and select them to c
 Java Spring (JPA, JDBC, Security),
 PostgreSQL
 
-## FrontEnd Built with (will come soon)
+## FrontEnd Built with
 
 Flutter
-
-
 
 ## Current State
 
@@ -22,8 +20,6 @@ The frontend is almost finished and will be published soon.
 ## What I learned
 
 I implemented for the first time a full authentication system using JWT. With this project I learned more about Spring Security strengthening my abilities on this topic.
-The Flutter frontend that I'm currently developing is making me better understand the API interactions between frontend and backend.
-I'm also improving my Flutter skills, learning modern state management methods to handle data in the frontend.
 
 ## Test the code
 
