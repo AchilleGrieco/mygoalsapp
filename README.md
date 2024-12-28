@@ -1,10 +1,6 @@
 # MyGoals App - Goal Management API
 
-<<<<<<< HEAD
-# MyGoals App
-=======
 A robust REST API backend for a productivity application that enables users to create, manage, and track their goals using customizable templates.
->>>>>>> 01252a4 (commit)
 
 ## Features
 
@@ -24,19 +20,16 @@ A robust REST API backend for a productivity application that enables users to c
 - Database Access: JDBC
 - Build Tool: Maven
 
-<<<<<<< HEAD
-## FrontEnd Built with
-=======
+
 ### Frontend
 - Framework: Flutter
 - Repository: [MyGoals App Frontend](https://github.com/AchilleGrieco/mygoalsapp-front-end/tree/main)
->>>>>>> 01252a4 (commit)
 
 ## Project Status
 
-<<<<<<< HEAD
+
 ## Current State
-=======
+
 - Backend: Complete with full functionality
   - User authentication system
   - Goal management features
@@ -54,7 +47,7 @@ A robust REST API backend for a productivity application that enables users to c
 - Maven
 - PostgreSQL
 - IDE (recommended: IntelliJ IDEA)
->>>>>>> 01252a4 (commit)
+
 
 ### Environment Variables
 The following environment variables need to be configured:
@@ -62,14 +55,11 @@ The following environment variables need to be configured:
 - JWT secret key
 - Other application-specific configurations
 
-<<<<<<< HEAD
-I implemented for the first time a full authentication system using JWT. With this project I learned more about Spring Security strengthening my abilities on this topic.
-=======
+
 ### Database Setup
 1. Install PostgreSQL
 2. Create a new database
 3. Configure the database connection in application properties
->>>>>>> 01252a4 (commit)
 
 ### Running the Application
 1. Clone the repository
