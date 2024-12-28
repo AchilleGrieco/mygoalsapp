@@ -9,7 +9,7 @@ import java.util.concurrent.*;
 public class RateLimitingService {
 
     private Map<String, Integer> requestCounts = new ConcurrentHashMap<>();
-    private final int MAX_REQUESTS_PER_MINUTE = 3;
+    private final int MAX_REQUESTS_PER_MINUTE = 100;
 
     public RateLimitingService() {
         ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(1);
